@@ -1,0 +1,9 @@
+{
+  "name": "ai-career-university-agent",
+  "version": "1.0.0",
+  "description": "AI Career and University Decision Agent",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node agent.js"
+  }
+}
