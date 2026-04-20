@@ -1,13 +1,22 @@
 # Sample Output
 
-Interest: AI
-Course: Computer Science
-Budget: 1500000
-Location: International
+===== AI Recommendation =====
 
-Recommended Countries:
-Canada / Australia
+Interest: software development  
+Course: btech cse
 
-Sources:
-query_knowledge
-get_insights
+LPI Tools Used:
+
+1. query_knowledge  
+Compared curriculum, internships, placements, rankings and ROI.
+
+2. get_insights  
+USA / UK / Singapore
+
+Reasoning:  
+Recommendation selected using interests, budget, location and academic path.
+
+Next Steps:
+- Compare admission criteria
+- Apply for scholarships
+- Track deadlines
